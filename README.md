@@ -71,7 +71,7 @@
 
 ---
 
-<img src="https://github.com/gokuljujgar07/Amazon_Sales_Analysis/blob/main/Amazon_sales.png" alt="myql-logo" width="1100" height="500"/>
+<img width="908" alt="Amazon_sales" src="https://github.com/user-attachments/assets/716ef960-eafc-489e-a7d2-a70f617c5078" />
 
 
       (https://github.com/gokuljujgar07/Amazon_Sales_Analysis/blob/main/Amazon_sales.png) &nbsp;
