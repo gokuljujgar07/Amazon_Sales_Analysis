@@ -71,7 +71,8 @@
 
 ---
 
-<img width="910" alt="Amazon_sales_Analysis" src="https://github.com/user-attachments/assets/230f1d45-b2e6-4f05-872e-4fbda2e580e4" />
+<img width="908" alt="Amazon_sales_Analysis" src="https://github.com/user-attachments/assets/d923504d-fcd0-4865-8bbc-1b0eb9f8d5b5" />
+
 
 
 
