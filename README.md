@@ -77,5 +77,5 @@
 
 
 
-      (https://github.com/gokuljujgar07/Amazon_Sales_Analysis/blob/main/Amazon_sales.png) &nbsp;
+      (https://github.com/gokuljujgar07/Amazon_Sales_Analysis/blob/main/Amazon_Sales.png) &nbsp;
 
