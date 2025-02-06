@@ -7,7 +7,7 @@
 
 ---
 
-## Product Insights -
+## 🎯 Product Insights -
 
  • Top-Selling Product: JNE3797-KR-L ranks highest in sales, followed by JNE3405-KR-L.
 
@@ -15,7 +15,7 @@
 
  ---
 
-## Regional Contribution -
+## 📌 Regional Contribution -
 
   • Top States by Revenue: Maharashtra leads, followed by Karnataka and Tamil Nadu.
 
@@ -23,7 +23,7 @@
 
   ---
 
-## Monthly Trends -
+## 📈 Monthly Trends -
 
   • High-Performing Months: February and April These months likely benefit from strong sales campaigns, seasonal demand, or specific promotions.
 
@@ -31,7 +31,7 @@
 
   ---
 
-## Fulfillment Insights -
+## 📦 Fulfillment Insights -
 
   • Fulfillment Breakdown: Amazon Fulfilled: 70% of total orders, reflecting efficient logistics and delivery by Amazon.
 
@@ -39,7 +39,7 @@
 
   ---
 
-## Logistics and Courier Performance -
+## 🚚 Logistics and Courier Performance -
 
   • Fulfillment Partners: Ekart (73%) leads, with Easy Ship (27%) providing complementary support.
 
@@ -57,18 +57,18 @@
 
 
 
-# Key Recommendations -
+# 💡Key Recommendations -
 
 
-### Inventory Optimization: Focus on popular products (e.g., JNE3797-KR-L) and sizes (M, L) to maximize sales.
+### ✅ Inventory Optimization: Focus on popular products (e.g., JNE3797-KR-L) and sizes (M, L) to maximize sales.
 
-### Regional Growth: Target marketing campaigns in low-performing states (e.g., Gujarat, Andhra Pradesh).
+### ✅ Regional Growth: Target marketing campaigns in low-performing states (e.g., Gujarat, Andhra Pradesh).
 
-### Leverage peak months: (February and April) by amplifying successful campaigns and strategies.
+### ✅ Leverage peak months: (February and April) by amplifying successful campaigns and strategies.
 
-### Implement: targeted promotions to boost sales in low-performing months like November and December, such as holiday discounts or early bird offers.
+### ✅ Implement: targeted promotions to boost sales in low-performing months like November and December, such as holiday discounts or early bird offers.
 
-### Merchant Support: Increase training or support for merchants to improve their fulfillment process and sales contribution.
+### ✅ Merchant Support: Increase training or support for merchants to improve their fulfillment process and sales contribution.
 
 ---
 
