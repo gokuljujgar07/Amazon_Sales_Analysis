@@ -76,13 +76,9 @@
 
 ---
 
-<img width="913" alt="Amazon_Sales" src="https://github.com/user-attachments/assets/66fe6b1a-4546-4dd0-aa57-84527b2fd112" />
 
 
 
+   ![Amazon Sales Analysis](https://github.com/gokuljujgar07/Amazon_Sales_Analysis/raw/main/Amazon_Sales.png)
 
-
-
-
-      (https://github.com/gokuljujgar07/Amazon_Sales_Analysis/blob/main/Amazon_Sales.png) &nbsp;
 
