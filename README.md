@@ -47,7 +47,7 @@
 
   ---
 
-## Tools & library -
+## 🛠️ Tools & library -
 
 <img src="https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/excel.jpg" alt="logo" width="200" height="100"/>
 
